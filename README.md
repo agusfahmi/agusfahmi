@@ -6,6 +6,7 @@
 - 💬 Ask me about Java and Python
 - ⚡ Fun fact: I like Artifical Intelligent and Software Developer
 
-###- 📫 How to reach me :
+### 📫 How to reach me :
+
 
 
