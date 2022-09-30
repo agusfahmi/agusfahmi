@@ -31,33 +31,23 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
 ---
 
-
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [What is Python&#39;s &quot;self&quot; Argument, Anyway?](https://martinheinz.dev/blog/81)
-- [Python List Comprehensions Are More Powerful Than You Might Think](https://martinheinz.dev/blog/80)
-- [You Should Be Using Python&#39;s Walrus Operator - Here&#39;s Why](https://martinheinz.dev/blog/79)
-- [Recipes and Tricks for Effective Structural Pattern Matching in Python](https://martinheinz.dev/blog/78)
-<!-- BLOG-POST-LIST:END -->
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/agusfahmi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusfahmi&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/agusfahmi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fahmi GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=agusfahmi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fahmi GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
+<!-- <a href="https://github.com/MartinHeinz/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>     -->
 
 <!-- links to social media icons -->
 
