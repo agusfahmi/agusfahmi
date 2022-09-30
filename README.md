@@ -27,15 +27,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## &#x270d; Stay Connect
 
-<p align="center">
-	<a href="https://twitter.com/TerryTangYuan"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://github.com/terrytangyuan"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a href="https://github.com/sponsors/terrytangyuan"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
-	<a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
-	<a href="https://scholar.google.com/citations?user=2GYttqUAAAAJ&hl=en"><img src="imgs/citations.svg" alt="Citations"></a>
-	<a href="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/wechat-qr-code.png"><img src="imgs/wechat.svg" alt="微信"></a>
-</p>
+[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/tanejasaksham/) [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)
+[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)
+[![GitHub followers](https://img.shields.io/github/followers/sakshamtaneja21?label=Follow&style=social)](https://github.com/sakshamtaneja/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
+---
 
 
 A sample of my recent articles:
