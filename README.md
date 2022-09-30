@@ -14,8 +14,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![Linkedin Badge](https://img.shields.io/badge/-agusfahmiajipramana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agus-fahmi-aji-pramana-03ba451bb/)](https://www.linkedin.com/in/agus-fahmi-aji-pramana-03ba451bb/) <!-- [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/) -->[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)
 [![GitHub followers](https://img.shields.io/github/followers/agusfahmi?label=Follow&style=social)](https://github.com/agusfahmi/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-sensai.fahmi1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sensai.fahmi1@gmail.com)](mailto:sensai.fahmi1@gmail.com)
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 ---
 
 ## &#x1f4c8; GitHub Stats
