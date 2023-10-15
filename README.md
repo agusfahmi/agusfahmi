@@ -6,7 +6,7 @@ My name is Fahmi and I'm a Student of Department Informatics Engineering, Intere
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [teknopintar](https://teknopintar.blogspot.com/) 
+Apart from coding, I also maintain a blog - you can find my articles on my website at [teknopintar](https://teknopintar79.blogspot.com/) 
 
 ## <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Stay Connect 
 
