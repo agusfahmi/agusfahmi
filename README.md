@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Fahmi and I'm a Student of Department Informatics Engineering, Interest in Machine Learning and explore about IT. I'm from Malang, living in Malang and Fresh Graduate from University of Muhammadiyah Malang.
+My name is Fahmi and I'm a Fresh Graduate from Department Informatics Engineering, Experienced in Data Science, Data Analyst, Machine Learning, AI, Web Frameworks, and exploring technological advancements.
 
 ## &#x270d; Blog & Writing
 
