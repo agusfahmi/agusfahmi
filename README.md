@@ -6,7 +6,7 @@ My name is Fahmi and I'm a Fresh Graduate from Department Informatics Engineerin
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [teknopintar](https://teknopintar79.blogspot.com/) 
+Apart from coding, I also maintain a blog and portfolio website - you can find my articles on my website at [agusfahmiajipramana](https://agusfahmiajipramana.com/) 
 
 ## <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Stay Connect 
 
@@ -14,7 +14,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![Linkedin Badge](https://img.shields.io/badge/-agusfahmiajipramana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agusfahmiajipramana/)](https://www.linkedin.com/in/agusfahmiajipramana/) <!-- [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/) -->[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.buymeacoffee.com/agfmi)
 [![GitHub followers](https://img.shields.io/github/followers/agusfahmi?label=Follow&style=social)](https://github.com/agusfahmi/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-sensai.fahmi1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sensai.fahmi1@gmail.com)](mailto:sensai.fahmi1@gmail.com)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=agusfahmi.visitor-badge)
 ---
 
 ## &#x1f4c8; GitHub Stats
