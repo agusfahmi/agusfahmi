@@ -4,9 +4,20 @@
 
 My name is Fahmi and I'm a Fresh Graduate from Department Informatics Engineering, Experienced in Data Science, Data Analyst, Machine Learning, AI, Web Frameworks, and exploring technological advancements.
 
-## &#x270d; Blog & Writing
+# ⚡ A Few Quick Facts:
 
-Apart from coding, I also maintain a blog and portfolio website - you can find my articles on my website at [agusfahmiajipramana](https://agusfahmiajipramana.com/) 
+- 🔬 Currently looking for job like data scientist, data analyst, or machine learning/AI.
+- 🧮 Expanding my knowledge in differential geometry and Lie algebra.
+- 🤝 Eager to collaborate on exciting Machine Learning/Data Science projects.
+- 🤓 Actively looking for Degree opportunities in data science and machine learning.
+- 💬 Ask me about anything related to cutting-edge tech and research.
+- 📬 Reach me at: [Gmail](mailto:agufahmiajipramana@gmail.com)
+- 🏳️ Pronouns: He/Him
+- 📄 Check out my [resume](https://agusfahmiajipramana.com/).
+- ✍️ I sometimes write articles on my [blog](https://agusfahmiajipramana.com/blogs/).
+
+If you like what I do, maybe consider buying me a coffee/tea...  
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FF813F?style=flat-square)](https://www.buymeacoffee.com/agfmi)
 
 ## <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Stay Connect 
 
