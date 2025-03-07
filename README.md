@@ -23,7 +23,6 @@ If you like what I do, maybe consider buying me a coffee/tea...
 
 [![Twitter Badge](https://img.shields.io/badge/-@agfmi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/agfmi) 
 [![Linkedin Badge](https://img.shields.io/badge/-agusfahmiajipramana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agusfahmiajipramana/)](https://www.linkedin.com/in/agusfahmiajipramana/) 
-[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.buymeacoffee.com/agfmi)
 [![GitHub followers](https://img.shields.io/github/followers/agusfahmi?label=Follow&style=social)](https://github.com/agusfahmi/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-sensai.fahmi1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sensai.fahmi1@gmail.com)](mailto:sensai.fahmi1@gmail.com)
 ---
