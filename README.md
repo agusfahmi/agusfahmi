@@ -1,29 +1,11 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-
-My name is Fahmi and I'm a Fresh Graduate from Department Informatics Engineering, Experienced in Data Science, Data Analyst, Machine Learning, AI, Web Frameworks, and exploring technological advancements.
-
-# ⚡ A Few Quick Facts:
-
-- 🔬 Currently looking for job like data scientist, data analyst, or machine learning/AI.
-- 🧮 Expanding my knowledge in differential geometry and Lie algebra.
-- 🤝 Eager to collaborate on exciting Machine Learning/Data Science projects.
-- 🤓 Actively looking for Degree opportunities in data science and machine learning.
-- 💬 Ask me about anything related to cutting-edge tech and research.
-- 📬 Reach me at: [Gmail](mailto:agufahmiajipramana@gmail.com)
-- 🏳️ Pronouns: He/Him
-- 📄 Check out my [resume](https://agusfahmiajipramana.com/).
-- ✍️ I sometimes write articles on my [blog](https://agusfahmiajipramana.com/blogs/).
-
 <h1 align="center">Hi 👋, I'm Fahmi</h1>
 <h3 align="center">I'm a Fresh Graduate from Department Informatics Engineering, Experienced in Data Science, Data Analyst, Machine Learning, AI, Web Developer, and exploring technological advancements.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agusfahmi&label=Profile%20views&color=0e75b6&style=flat" alt="agusfahmi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agusfahmi" alt="agusfahmi" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/agusfahmi" target="blank"><img src="https://img.shields.io/twitter/follow/agusfahmi?logo=twitter&style=for-the-badge" alt="agusfahmi" /></a> </p>
+
+# ⚡ A Few Quick Facts:
 
 - 🔭 I’m currently working on **Data Analyst**
 
@@ -36,6 +18,16 @@ My name is Fahmi and I'm a Fresh Graduate from Department Informatics Engineerin
 - 📫 How to reach me **agusfahmiajipramana@gmail.com**
 
 - 📄 Know about my experiences [agusfahmiajipramana.com/document/CV.pdf](agusfahmiajipramana.com/document/CV.pdf)
+
+- 🔬 Currently looking for job like data scientist, data analyst, or machine learning/AI.
+- 🧮 Expanding my knowledge in differential geometry and Lie algebra.
+- 🤝 Eager to collaborate on exciting Machine Learning/Data Science projects.
+- 🤓 Actively looking for Degree opportunities in data science and machine learning.
+- 💬 Ask me about anything related to cutting-edge tech and research.
+- 📬 Reach me at: [Gmail](mailto:agufahmiajipramana@gmail.com)
+- 🏳️ Pronouns: He/Him
+- 📄 Check out my [resume](https://agusfahmiajipramana.com/).
+- ✍️ I sometimes write articles on my [blog](https://agusfahmiajipramana.com/blogs/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
