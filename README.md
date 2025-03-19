@@ -7,26 +7,14 @@
 
 # ⚡ A Few Quick Facts:
 
-- 🔭 I’m currently working on **Data Analyst**
-
-- 👨‍💻 All of my projects are available at [agusfahmiajipramana.com/project](agusfahmiajipramana.com/project)
-
-- 📝 I regularly write articles on [agusfahmiajipramana.com/blogs](agusfahmiajipramana.com/blogs)
-
-- 💬 Ask me about **anything related to cutting-edge tech and research**
-
-- 📫 How to reach me **agusfahmiajipramana@gmail.com**
-
-- 📄 Know about my experiences [agusfahmiajipramana.com/document/CV.pdf](agusfahmiajipramana.com/document/CV.pdf)
-
 - 🔬 Currently looking for job like data scientist, data analyst, or machine learning/AI.
-- 🧮 Expanding my knowledge in differential geometry and Lie algebra.
-- 🤝 Eager to collaborate on exciting Machine Learning/Data Science projects.
 - 🤓 Actively looking for Degree opportunities in data science and machine learning.
+- 🤝 Eager to collaborate on exciting Machine Learning/Data Science projects.
+- 👨‍💻 All of my projects are available at [agusfahmiajipramana.com/project](agusfahmiajipramana.com/project)
+- 📫 How to reach me [Gmail](mailto:agufahmiajipramana@gmail.com)
+- 📄 Know about my experiences [resume](agusfahmiajipramana.com/document/CV.pdf)
 - 💬 Ask me about anything related to cutting-edge tech and research.
-- 📬 Reach me at: [Gmail](mailto:agufahmiajipramana@gmail.com)
 - 🏳️ Pronouns: He/Him
-- 📄 Check out my [resume](https://agusfahmiajipramana.com/).
 - ✍️ I sometimes write articles on my [blog](https://agusfahmiajipramana.com/blogs/).
 
 <h3 align="left">Connect with me:</h3>
